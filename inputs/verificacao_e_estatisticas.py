@@ -55,6 +55,7 @@ def main():
                     if 'URN' in data:
                         valid_urns.add(data['URN'])
                 except json.JSONDecodeError:
+                    print(line)
                     pass
     except FileNotFoundError:
         print(f"Erro: {FILE_CHUNKS} não encontrado.")
@@ -102,7 +103,7 @@ def main():
     # Integridade
     print(f"\n>>> INTEGRIDADE DOS DADOS")
     print(f"Total de referências verificadas: {total_urns_checked}")
-    print(f"Referências QUEBRADAS (não achadas): {missing_urns_count}")
+    print(f"Referências QUEBRADAS (não encontradas): {missing_urns_count}")
     if total_urns_checked > 0:
         pct = (missing_urns_count / total_urns_checked) * 100
         print(f"Porcentagem de erro: {pct:.2f}%")
