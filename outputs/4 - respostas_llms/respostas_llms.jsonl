@@ -80,7 +80,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "27", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "27", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "28", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "A"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "28", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "A"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "28", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "Nenhuma das alternativas (a combinação correta é: apenas I e III estão incorretas)"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "28", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "C"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "29", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "29", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "A"}
@@ -191,7 +191,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "64", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "E"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "64", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "E"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "65", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "B"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "65", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "B"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "65", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "Nenhuma das alternativas"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "65", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "66", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "66", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 6, "RESPOSTA_LLM": "B"}
@@ -983,7 +983,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "328", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 5, "RESPOSTA_LLM": "E"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "328", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "E"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "329", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "Nenhuma das alternativas (I, II e III estão corretos)"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "329", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "Nenhuma das alternativas"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "329", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "Nenhuma das alternativas está correta"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "329", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Nenhuma das alternativas"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "330", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "C"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "330", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "C"}
@@ -1349,7 +1349,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "450", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "450", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "451", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "D"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "451", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "D"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "451", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "451", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "D"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "452", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "Errado"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "452", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Errado"}
@@ -1433,7 +1433,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "478", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "478", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "479", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "Certo"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "479", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "Certo"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "479", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "Errado"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "479", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "480", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "480", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Certo"}
@@ -1517,7 +1517,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "506", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "506", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "507", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "D"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "507", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "C"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "507", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "D"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "507", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "C"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "508", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "508", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "C"}
@@ -1556,8 +1556,8 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "519", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "519", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "520", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "A"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "520", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 5, "RESPOSTA_LLM": "B"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "520", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "A"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "520", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 5, "RESPOSTA_LLM": "A"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "520", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "521", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "521", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "521", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "A"}
@@ -1580,7 +1580,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "527", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "527", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "528", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "B"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "528", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "B"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "528", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "C"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "528", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "529", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "D"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "529", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "D"}
@@ -1625,7 +1625,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "542", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 5, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "542", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "543", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "A"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "543", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "Nenhuma das alternativas (I, II e III estão corretos)"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "543", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "Nenhuma das alternativas"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "543", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Nenhuma das alternativas — I, II e III estão corretos."}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "544", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "C"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "544", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "C"}
@@ -1676,8 +1676,8 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "559", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 8, "RESPOSTA_LLM": "D"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "559", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 7, "RESPOSTA_LLM": "D"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "560", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "A"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "560", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 5, "RESPOSTA_LLM": "A"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "560", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "A"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "560", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 5, "RESPOSTA_LLM": "Nenhuma das alternativas"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "560", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "Nenhuma das alternativas"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "561", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "E"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "561", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 6, "RESPOSTA_LLM": "E"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "561", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 5, "RESPOSTA_LLM": "E"}
@@ -1784,7 +1784,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "595", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 6, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "595", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 6, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "596", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "Nenhuma das alternativas"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "596", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "Nenhuma das alternativas (prazo razoável conforme definido pela ANPD)"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "596", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "Nenhuma das alternativas — prazo razoável definido pela ANPD"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "596", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "597", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "597", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Certo"}
@@ -1868,7 +1868,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "623", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 7, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "623", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 5, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "624", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "E"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "624", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "E"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "624", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "C"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "624", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "E"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "625", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "C"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "625", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "C"}
@@ -1884,7 +1884,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "628", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "629", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "629", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 8, "RESPOSTA_LLM": "B"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "629", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 5, "RESPOSTA_LLM": "Nenhuma das alternativas"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "629", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 5, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "630", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "630", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "630", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "A"}
@@ -1902,7 +1902,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "634", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "635", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "C"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "635", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 8, "RESPOSTA_LLM": "A"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "635", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "Nenhuma das alternativas"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "635", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "636", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "D"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "636", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "D"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "636", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "D"}
@@ -1910,7 +1910,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "637", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 14, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "637", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 5, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "638", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "B"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "638", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 11, "RESPOSTA_LLM": "B"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "638", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 11, "RESPOSTA_LLM": "C"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "638", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "639", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "Certo"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "639", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "Certo"}
@@ -2003,7 +2003,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "668", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 5, "RESPOSTA_LLM": "E"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "668", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 5, "RESPOSTA_LLM": "E"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "669", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "A"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "669", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "A"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "669", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 4, "RESPOSTA_LLM": "Nenhuma das alternativas"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "669", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "670", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "670", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "A"}
@@ -2024,7 +2024,7 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "675", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "675", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "676", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "B"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "676", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "C"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "676", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "D"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "676", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "D"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "677", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "A"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "677", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "A"}
@@ -2096,5 +2096,5 @@
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "699", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 6, "RESPOSTA_LLM": "B"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "699", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 3, "RESPOSTA_LLM": "E"}
 {"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "700", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "C"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "700", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "Nenhuma das alternativas"}
-{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "700", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "Nenhuma das alternativas está correta"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "700", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "C"}
+{"MODELO_LLM": "gpt-5-mini-2025-08-07", "ID_QUESTAO": "700", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 2, "RESPOSTA_LLM": "Nenhuma das alternativas"}
