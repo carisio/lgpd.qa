@@ -1,5 +1,4 @@
 {"MODELO_LLM": "deepseek-chat", "ID_QUESTAO": "1", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "Errado"}
-{"MODELO_LLM": "deepseek-chat", "ID_QUESTAO": "1", "MODELO_RAG": "", "TIPO_PESQUISA_CHUNKS": "", "NUM_CHUNKS": 0, "RESPOSTA_LLM": "Errado"}
 {"MODELO_LLM": "deepseek-chat", "ID_QUESTAO": "1", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Errado"}
 {"MODELO_LLM": "deepseek-chat", "ID_QUESTAO": "1", "MODELO_RAG": "Gold", "TIPO_PESQUISA_CHUNKS": "apenas_art", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Errado"}
 {"MODELO_LLM": "deepseek-chat", "ID_QUESTAO": "1", "MODELO_RAG": "bm25", "TIPO_PESQUISA_CHUNKS": "todos_chunks", "NUM_CHUNKS": 1, "RESPOSTA_LLM": "Errado"}
